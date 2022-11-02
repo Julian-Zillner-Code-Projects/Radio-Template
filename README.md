@@ -14,7 +14,7 @@ A Radio Template what you can use for free, and what easy is to use.
 
 - Shows the current song
 - News Page via RSS Feed
-- Artist Cover (from Itunes)
+- Artist Cover (from iTunes)
 - Without MySQL
 - Last Tracks
 - ON/OFF Air Picture
