@@ -22,6 +22,7 @@ A Radio Template what you can use for free, and what easy is to use.
 - Individually adjustment
 - Responsive Design
 - Color changing is possible
+- 404 - Site not Found Page
 
 
 ## Installation
