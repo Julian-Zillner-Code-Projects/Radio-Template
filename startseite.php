@@ -25,6 +25,7 @@
 				laut.fm.station('<?php echo "$lautmountpoint"; ?>')
 				.info({container:'api_lfm_current_playlists', template:'current_playlists_template'}, true);
 			</script>
+			
 			</center>
   </div>
 </div>
@@ -57,6 +58,7 @@
 <style>
 <style>
 
+
 	:root {
 		--card-margin: 1em;
 	}
@@ -75,6 +77,7 @@
 	}
 	.container > * {
 		flex: 1 1 calc(280px + var(--card-margin));
+		width: 100%;
 	}
 	.card {
 	  display: flex;

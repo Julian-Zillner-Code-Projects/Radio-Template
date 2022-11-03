@@ -13,6 +13,6 @@ $artist = $obj_info->artist->name;
 $titel = $obj_info->title;
 echo "".$artist." </br> ".$titel."";
 ?></div>
-</div>
+</div></div>
 <div style='clear:left;'></div>
 </div>

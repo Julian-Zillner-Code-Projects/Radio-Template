@@ -10,7 +10,7 @@
 $radioname = "Radio Demo";
 $slogan = "Die beste Musik!";
 $hintergrundfarbe = "white";
-$lautmountpoint = "radiofinn";
+$lautmountpoint = "eins";
 $externerplayerlink = "https://onlineradiobox.com/de/antennepassau/";
 $titelbox = "Mustertitel";
 $titeltext = "Hier könnte der benutzerdefinierte Text stehen, den Besucher auf der Seite unten sehen können";
