@@ -65,5 +65,7 @@ $impressumtext = "";
 /* Beispielformat AzuraCast: https://azuracast.com/public/example-station/embed-requests?theme=light */
 $musikwunschazuraurl = "https://stream.radioserver.ch/public/antenne-passau/embed-requests?theme=light";
 
+$logins = array('Admin' => 'Admin','username1' => 'password1','username2' => 'password2');
+
 
 ?>
