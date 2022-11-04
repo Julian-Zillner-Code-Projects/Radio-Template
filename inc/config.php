@@ -17,6 +17,11 @@ $titeltext = "Hier könnte der benutzerdefinierte Text stehen, den Besucher auf 
 $rssfeed = simplexml_load_file('https://www.tagesschau.de/xml/rss2/');
 
 
+ $users = [
+    "admin" => "12345678",
+  ];
+
+
 /* Programm Seite - Informationen einfach ersetzen */
 $programm1 = "Non!Stop Hits 1";
 $programmtext1 = "Das ist ein Mustertext der bei diesen Programm unter den Programmtitel stehen könnte.";
@@ -64,8 +69,4 @@ $impressumtext = "";
 
 /* Beispielformat AzuraCast: https://azuracast.com/public/example-station/embed-requests?theme=light */
 $musikwunschazuraurl = "https://stream.radioserver.ch/public/antenne-passau/embed-requests?theme=light";
-
-$logins = array('Admin' => 'Admin','username1' => 'password1','username2' => 'password2');
-
-
 ?>

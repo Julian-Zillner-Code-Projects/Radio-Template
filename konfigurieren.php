@@ -7,19 +7,20 @@ if (isset($_POST["logout"])) {
 if (!isset($_SESSION["user"])) {
   header("Location: login.php");
   exit();
-}
-?>
-
-<meta name="viewport" content= "width=device-width, initial-scale=1.0">
-<title>Radio Template Admin</title>
-<link href="style-admin.css" rel="stylesheet" type="text/css">
-<h1>Radio-Template Admin</h1><br>
+} ?>
+<?php include "inc/header-admin.php"; ?>
 <h2>Informationen:</h2>
 <p><b>Uhrzeit und Datum: </b><?php
 $datum = date("d.m.Y - H:i");
 echo $datum;
-?><br><br>
-	<h2>Webserver Informationen:</h2>
+?>
+<?php echo "<p><b>Stationsname: </b>$radioname"; ?>
+<?php echo "<p><b>Stations Slogan: </b>$slogan"; ?>
+<?php echo "<p><b>Hintergrundfarbe: </b>$hintergrundfarbe"; ?>
+<?php echo "<p><b>Laut.fm Station: /</b>$lautmountpoint"; ?>
+	
+<hr>
+<h2>Webserver Informationen:</h2>
 <?php
 $http = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'on'? "<p><b>Domain:</b> https://" : "<p><b>Domain:</b> http://";
 $dir =  str_replace(basename($_SERVER['SCRIPT_NAME']), '',$_SERVER['HTTP_HOST'].$_SERVER['SCRIPT_NAME']);
@@ -34,6 +35,7 @@ echo phpversion('tidy')
 echo '<br><b>Hostname:</b> ';
 echo gethostname();
 ?>
+<br><a href="seiten-infos.php">Seiten-Infos</a>
 	<form method="post">
   <input type="hidden" name="logout" value="1">
   <input type="submit" value="Abmelden">
