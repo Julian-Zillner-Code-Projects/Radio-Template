@@ -62,4 +62,8 @@ $streamurl3 = "";
 /* Rechtlicher Impressumtext */
 $impressumtext = "";
 
+/* Beispielformat AzuraCast: https://azuracast.com/public/example-station/embed-requests?theme=light */
+$musikwunschazuraurl = "https://stream.radioserver.ch/public/antenne-passau/embed-requests?theme=light";
+
+
 ?>
