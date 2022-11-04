@@ -17,9 +17,6 @@ $titeltext = "Hier könnte der benutzerdefinierte Text stehen, den Besucher auf 
 $rssfeed = simplexml_load_file('https://www.tagesschau.de/xml/rss2/');
 
 
- $users = [
-    "admin" => "12345678",
-  ];
 
 
 /* Programm Seite - Informationen einfach ersetzen */
