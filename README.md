@@ -56,6 +56,8 @@ https://radio-template.julianzillner.de/
 
 For support, email info@julianzillner.de or join our Slack channel.
 
+Or If u need help you can use our Discord Server
+https://discord.gg/mVh8xmEbrX
 
 ## Author
 
