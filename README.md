@@ -59,6 +59,16 @@ For support, email info@julianzillner.de or join our Slack channel.
 Or If you need help you can use our Discord Server
 https://discord.gg/mVh8xmEbrX
 
+## Friends form Radio-Template
+
+You can host this Template on every Webspace, which have the option to use HTML (Apache or NginX Webserver) and PHP. A Database is not required.
+
+Hosting Providers:
+
+
+<a href="https://www.lima-city.de/?cref=415825"><img alt="lima-city: Webhosting, Domains und Cloud" src="https://www.lima-city.de/assets/banner/button1.jpg"></a>
+
+and much more...
 ## Author
 
 - [@julianzillner](https://www.github.com/julianzillner)
