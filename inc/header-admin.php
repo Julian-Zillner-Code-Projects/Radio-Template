@@ -12,7 +12,7 @@
 	<h1>Radio-Template Admin</h1>
 	<ul id="menu">
    <li> <a class="link" href="konfigurieren"><b>Startseite</b></a> </li>
+   <li> <a class="link" href="verzeichniss"><b>Verzeichnis Inhalt</b></a> </li>
    <li> <a class="link" href="live-dashboard"><b>Live-Dashboard</b></a> </li>
 	</ul>
-	
 	<hr>
