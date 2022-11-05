@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
 <file name="startseite.php" server="julianzillner.lima-ftp.de//projekte/templates/radio/" local="133119673448464718" remote="133119709200000000" Dst="1" />
-<file name="programm.php" server="julianzillner.lima-ftp.de//projekte/templates/radio/" local="133119674553965266" remote="133119710400000000" Dst="1" />
+<file name="programm.php" server="julianzillner.lima-ftp.de//projekte/templates/radio/" local="133120836522569948" remote="133120872000000000" Dst="1" />
 <file name=".htaccess" server="julianzillner.lima-ftp.de//projekte/templates/radio/" local="133119915442270420" remote="133119951000000000" Dst="1" />
-<file name="empfang.php" server="julianzillner.lima-ftp.de//projekte/templates/radio/" local="133118954617122161" remote="133119720600000000" Dst="1" />
-<file name="impressum.php" server="julianzillner.lima-ftp.de//projekte/templates/radio/" local="133118577294584429" remote="133119720600000000" Dst="1" />
+<file name="empfang.php" server="julianzillner.lima-ftp.de//projekte/templates/radio/" local="133120837509701397" remote="133120873200000000" Dst="1" />
+<file name="impressum.php" server="julianzillner.lima-ftp.de//projekte/templates/radio/" local="133120837739489486" remote="133120873200000000" Dst="1" />
 <file name="index.php" server="julianzillner.lima-ftp.de//projekte/templates/radio/" local="133120726024423832" remote="133120761600000000" Dst="1" />
-<file name="letzte-songs.php" server="julianzillner.lima-ftp.de//projekte/templates/radio/" local="133118936399908628" remote="133119720600000000" Dst="1" />
-<file name="nachrichten.php" server="julianzillner.lima-ftp.de//projekte/templates/radio/" local="133118928338360748" remote="133119720600000000" Dst="1" />
+<file name="letzte-songs.php" server="julianzillner.lima-ftp.de//projekte/templates/radio/" local="133120837268785120" remote="133120873200000000" Dst="1" />
+<file name="nachrichten.php" server="julianzillner.lima-ftp.de//projekte/templates/radio/" local="133120836907128969" remote="133120872600000000" Dst="1" />
 <file name="README.md" server="julianzillner.lima-ftp.de//projekte/templates/radio/" local="133120623898769977" remote="133120761600000000" Dst="1" />
 <file name="404.html" server="julianzillner.lima-ftp.de//projekte/templates/radio/" local="133119918870580946" remote="133119954600000000" Dst="1" />
 <file name="musikwunsch.php" server="julianzillner.lima-ftp.de//projekte/templates/radio/" local="133120733674518758" remote="133120769400000000" Dst="1" />
@@ -17,4 +17,5 @@
 <file name="check.php" server="julianzillner.lima-ftp.de//projekte/templates/radio/" local="133120752281416542" remote="133120788000000000" Dst="1" />
 <file name="live-dashboard.php" server="julianzillner.lima-ftp.de//projekte/templates/radio/" local="133120768778746620" remote="133120804200000000" Dst="1" />
 <file name="verzeichniss.php" server="julianzillner.lima-ftp.de//projekte/templates/radio/" local="133120801664863298" remote="133120837200000000" Dst="1" />
+<file name="team.php" server="julianzillner.lima-ftp.de//projekte/templates/radio/" local="133120836696069511" remote="133120872600000000" Dst="1" />
 </dwsync>

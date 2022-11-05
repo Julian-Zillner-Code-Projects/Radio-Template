@@ -17,6 +17,15 @@ $titeltext = "Hier könnte der benutzerdefinierte Text stehen, den Besucher auf 
 $rssfeed = simplexml_load_file('https://www.tagesschau.de/xml/rss2/');
 
 
+/* Team Seite */
+$moderator1 = "Max Mustermann";
+$moderatorinfo1 = "Hier kann etwas über den Moderator stehen";
+
+$moderator2 = "Max Mustermann";
+$moderatorinfo2 = "Hier kann etwas über den Moderator stehen";
+
+$moderator3 = "Max Mustermann";
+$moderatorinfo3 = "Hier kann etwas über den Moderator stehen";
 
 
 /* Programm Seite - Informationen einfach ersetzen */

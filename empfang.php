@@ -1,5 +1,5 @@
 <?php include "inc/header.php"; ?>
-<h2>Empfang</h2>
+<h1>Empfang</h1>
 	<h3>
 	Hier kannst du <?php echo "$radioname"; ?> hören:</h3>
 	<h4><a href="<?php echo "$playerseitenlink1"; ?>"><?php echo "$playerseite1"; ?></a></h4>

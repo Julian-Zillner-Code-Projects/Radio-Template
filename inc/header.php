@@ -21,6 +21,7 @@
         <ul>
           <li class="menu-item"><a href="startseite">Startseite</a></li>
           <li class="menu-item"><a href="programm">Programm</a></li>
+		  <li class="menu-item"><a href="team">Team</a></li>
 		  <li class="menu-item"><a href="nachrichten">Nachrichten</a></li>
 		  <li class="menu-item"><a href="letzte-songs" data-scroll>Letzte Songs</a></li>
           <li class="menu-item"><a href="empfang" data-scroll>Empfang</a></li>

@@ -1,5 +1,5 @@
 <?php include "inc/header.php"; ?>
-	<h2>Impressum</h2>
+	<h1>Impressum</h1>
 		<?php echo "$impressumtext"; ?>
 <br>
 <h3>Quellen:</h3>

@@ -1,6 +1,6 @@
 <?php include "inc/header.php"; ?>
 <?php
-echo "<h2>$radioname Nachrichten</h2>";echo "<center >";
+echo "<h1>$radioname Nachrichten</h1>";echo "<center >";
 echo '<table width="auto" align="center" border="0"><tr><td>';
 #
 $i = 0;
